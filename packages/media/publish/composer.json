@@ -1,0 +1,14 @@
+{
+    "name": "media/publish",
+    "description": "publish text and links to social media",
+    "authors": [
+        {
+            "name": "chaminda",
+            "email": "chamindar2002@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "facebook/php-sdk-v4" : "~5.0"
+    }
+}
